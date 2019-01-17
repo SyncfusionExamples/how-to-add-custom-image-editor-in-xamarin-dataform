@@ -1,6 +1,8 @@
-# how-to-add-image-editor-in-xamarin-dataform
+# how-to-add-custom-image-editor-in-xamarin-forms-dataform
 
-This example demonstrates how to add image editor in Xamarin DataForm.
+This example demonstrates how to add custom image editor in Xamarin.Forms DataForm.
+
+See [How to add custom image editor in Xamarin.Forms DataForm](https://www.syncfusion.com/kb/10104/how-to-add-custom-image-editor-in-xamarin-forms-dataform) for more details.
 
 ## <a name="requirements-to-run-the-demo"></a>Requirements to run the demo ##
 
